@@ -3,8 +3,8 @@
 A lightweight, always-on-top utility that triggers actions when your mouse cursor reaches the corners of your screen. Similar to Mac's Hot Corners feature, this brings that convenience to Windows.
 
 ## Screenshots
-![Hot Corners for Windows — Main UI screenshot](screenshots\main_ui.png)
-![Action Center](screenshots\action_center.png)
+![Hot Corners for Windows — Main UI screenshot](screenshots/main_ui.png)  
+![Action Center](screenshots/action_center.png)
 - runs in background, no clutter - can be enabled, disabled and terminated all from here itself.
 ## Features
 
@@ -211,11 +211,11 @@ venv\Scripts\activate
 # Install development dependencies
 # Only if you want to build .exe
 pip install pyinstaller  
-pip install nuikta
+pip install nuitka
 
 # use the build.bat if required, it does everything for you
 .\build.bat
-# try both pyinstaller and nuikta for build sizes
+# try both pyinstaller and nuitka for build sizes
 ```
 
 ### File Structure
