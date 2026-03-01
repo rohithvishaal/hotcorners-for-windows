@@ -1,4 +1,4 @@
-# Hot Corners for Windows
+# Hot Corners for Windows - [Download](https://github.com/rohithvishaal/hotcorners-for-windows/releases/tag/v4.0.0)
 
 A lightweight, always-on-top utility that triggers actions when your mouse cursor reaches the corners of your screen. Similar to Mac's Hot Corners feature, this brings that convenience to Windows.
 
